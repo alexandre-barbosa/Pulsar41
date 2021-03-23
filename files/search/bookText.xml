@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="38"><page Index="1"><![CDATA[PULSAR
+                  | EDIÇÃO 41 | MARÇO 2021 | DISTRIBUIÇÃO GRATUITA |]]></page><page Index="2"><![CDATA[Destaque acima: Jorge Vieira, Ricardo Fonseca, Miguel Pardal e José Tito-Mendonça descreveram um mecanismo de superradiância em plas-
+mas que usa feixes de partículas carregadas moduladas transversalmente e não longitudinalmente [Nature Physics, 17, 99-104]
+
+                          Fonte: GOLP - Group of Lasers and Plasmas (Instituto de Plasmas e Fusão Nuclear, IST), 2020
+Imagem de capa: Um astronauta em Marte, visto através da janela de uma nave espacial (ilustração por Joby Harris).
+
+                          Créditos: NASA/JPL-Caltech
+
+Apoio Financeiro                                          Redação:
+                                                          Alejandro T. Forné, Ana Mourão, Anant Kumar, António
+                                                          Onofre, António P. Morais, Bernardo Barbosa, Carlos
+                                                          Couto, Dinis Rocha, Diogo Pires, Dulce Conceição, Felipe
+                                                          F. Freitas, Filipa Valente, Guilherme Milhano, Inês Rainho,
+                                                          João Dinis Álvares, João Fonseca, João Gonçalves, José
+                                                          A. Font, José Maria Cruz, José Sande Lemos, Luís Oliveira
+                                                          e Silva, Maria J. Beira, Mário Pimenta, Miguel Cunhal, Ós-
+                                                          car Amaro, Osvaldo G. Freitas, Patrícia Gonçalves, Pedro
+                                                          Cosme e Silva, Pedro J. Sebastião, Solange Nunes, Teresa
+                                                          Peña, Vasco Guerra, Vítor Cardoso, Yasser Omar
+
+                                                          Comissão Científica:
+                                                          Bruno Gonçalves (Fusão Nuclear), Diana C. Leitão
+                                                          (Nanotecnologias), Filipe Mendes (Energia), João M. Dias
+                                                          (Ótica e Lasers), Miguel Zilhão (Astrofísica e Gravitação),
+                                                          Mário Pimenta (Física de Partículas), Rui Dilão (Biofísica e
+                                                          Sistemas Dinâmicos), Vasco Guerra (Física de Plasmas),
+                                                          Vítor R. Vieira (Física da Matéria Condensada)
+
+Parceiros                                                 Transcrição e Tradução da Entrevista:
+                                                          Ana Martins e Margarida Pereira
+
+                                                          Arte
+
+                                                          Design e Montagem: Francisca Paiva
+                                                          Cartoon (Einstein e Henri Bergson): Francisca Paiva
+
+Ficha Técnica                                             Contacto
+
+Direção: Alexandre Barbosa e Inês Rainho                  Site: http://pulsar.nﬁst.pt
+                                                          Facebook: https://www.facebook.com/pulsarmag
+Equipa: Alexandre Barbosa, Ana Martins, Francisca Paiva,  e-mail: pulsar.nﬁst@gmail.com
+Inês Rainho e Margarida Pereira                           Morada: Núcleo de Física do Instituto Superior Técnico,
+                                                          Avenida Rovisco Pais 1, Edifício Ciência - Departamento
+                                                          de Física, 1049-001 Lisboa
+                                                          Telefone: 218419075 Ext: 3075]]></page><page Index="3"><![CDATA[Índice
+
+  4 Breves
+  5 DIY Physics: Bolhas de Sabão Mágicas
+  6 Viver em Marte
+10 Brilhante Grafeno
+12 AI, O que vai ser da Física?
+13 O Modelo de Hodgkin-Huxley
+15 A Física e a Covid-19
+19 Protões Contra o Cancro
+22 Desigualdades de Bell para os Alunos Não-Quantizados
+24 Entrevista a William Magwood
+28 A Origem Evolutiva da Linguagem
+30 A Filosofia e a Ciência
+31 Deep Learning e Deteção de Ondas Gravitacionais
+33 Agenda Científica
+34 Jorge Dias de Deus (1941-2021)
+
+Editorial
+
+Ao longo desta edição, preparada por uma equipa que nunca se reuniu presencialmente, convidamos-te a olhar para o
+futuro e descobrir como podemos produzir oxigénio em Marte e combustível para regressar a casa usando plasmas; a
+compreender a física do grafeno e as suas inúmeras aplicações; os desafios e vantagens da energia de fissão nuclear;
+e como os protões ajudam a tratar o cancro. A inteligência artificial permite-nos fazer coisas incríveis, como detectar
+ondas gravitacionais, e acreditamos que pode mesmo mudar a forma como fazemos Física.
+
+A Física ajuda-nos a compreender a dinâmica da pandemia de COVID-19 que todos vivemos, o que nos permite construir
+modelos robustos e tomar melhores decisões. A propagação de sinais em neurónios ou a origem evolutiva da linguagem
+são outros exemplos de fenómenos que um físico curioso pode, talvez até melhor que ningúem, explicar. Através de
+uma experiência de pensamento, convidamos-te ainda a entender as desigualdades de Bell — não é preciso saberes
+Mecânica Quântica! —, a fazer bolhas de sabão mágicas e a refletir sobre a relação entre a Filosofia e a Ciência.
+
+No dia 1 de fevereiro, recebemos a triste notícia do falecimento do Professor Jorge Dias de Deus. Embora não tenhamos
+tido a oportunidade de o conhecer, devemos-lhe muito: desde a possibilidade de escolher o curso que frequentamos,
+até, em boa parte, a existência do NFIST. Além do mais, sabemos que foi graças aos seus esforços e de uma geração
+de que fez parte que é hoje possível fazer ciência em Portugal. Acreditamos que é importante dar a conhecer, pela
+voz de alunos, colegas e amigos, os cientistas portugueses, como JDD, responsáveis pela valorização da investigação
+científica e de um ensino superior de qualidade no nosso país, porque lembrá-los é uma forma de não esquecer que só
+continuando a investir em ciência é que é possível manter aquilo que lutaram para construir.
+
+Até à próxima,
+
+A Direção da PULSAR]]></page><page Index="4"><![CDATA[INFORMAÇÃO BREVES  por Inês Moreira, aluna do 2º Ano de MEFT, Instituto Superior Técnico
+
+Fosfina em Vénus
+
+  Foi publicado um estudo sobre a descoberta de fosfina na atmosfera venusiana. Tanto o
+Atacama Large Milimeter/Submilimeter Array no Chile, como o James Clerk Maxwell Tel-
+escope no Hawaii, observaram que a luz estava a ser absorvida em comprimentos de onda
+correspondentes a uma concentração de fosfina de 20 partes por mil milhões na atmos-
+fera. Esta surpreendente descoberta constitui um potencial indicador de vida em Vénus! A
+fosfina é um tóxico componente de hidrogénio e fósforo produzido por alguns organismos
+terrestres anaeróbicos. Clara Sousa-Silva, astrofísica molecular portuguesa, é co-autora
+do estudo publicado e afirma que o próximo passo será confirmar se a fosfina detetada
+provem, de facto, de uma fonte biológica.
+
+[Nature 586, 182-183]             AI e a Estrutura de Proteínas
+
+                                  A empresa DeepMind apresentou em 2020 o programa AlphaFold que dá um passo gi-
+                                  gantesco para resolver um dos maiores problemas da biologia. Este programa usa técnicas
+                                  de aprendizagem automática, baseadas em redes neuronais, para determinar a forma 3D de
+                                  uma proteína e a forma como esta se enrola sobre si mesma. Em alguns casos, as estruturas
+                                  preditas pelo AlphaFold são indistinguíveis das estruturas obtidas com os métodos experi-
+                                  mentais mais dispendiosos. Assim, a Inteligência Artificial abre portas para novas de formas
+                                  de estudar bioengenharia, acelerando a investigação e potenciando a produção de novos
+                                  fármacos. “Muitas vezes, as discussões sobre a Inteligência Artificial focam-se nos riscos e
+                                  nos problemas que a tecnologia levanta, ao criar visões distorcidas da realidade, invasões de
+                                  privacidade ou desemprego. Mas é importante lembrar que a razão que levou ao desenvolvi-
+                                  mento desta tecnologia é a esperança de que ela será útil e benéfica para a humanidade, ao
+                                  permitir-nos fazer novas descobertas científicas, criar novos modelos de negócio e descobrir
+                                  novas soluções para problemas que, de outra forma, não conseguiríamos resolver.” disse Ar-
+                                  lindo Oliveira, professor no IST e investigador no INESC para o jornal Público.
+
+                                  [Nature 588, 203-204] e [Público, 7-12-2020]
+
+ Prémio Nobel da Física para Buracos Negros
+
+  A área da Astrofísica, Gravitação e Cosmologia foi novamente distinguida pela Academia
+Nobel ao conceder o Prémio Nobel da Física a Roger Penrose, “pela descoberta de que a
+formação de buracos negros é uma previsão robusta da teoria geral da relatividade”, e a
+Reinhardt Genzel e Andrea Ghez, “pela descoberta de um objeto compacto supermassivo
+no centro de nossa galáxia”. Um artigo do Comité Nobel da Física divulgado pela Academia
+Sueca cita vários artigos científicos, entre os quais um artigo da autoria de José Sande
+Lemos, professor catedrático do IST e presidente do CENTRA, e de Carlos Herdeiro,
+investigador coordenador do Departamento de Matemática da Universidade de Aveiro que
+já trabalhou no CENTRA. O artigo tinha sido publicado na “Gazeta de Física” em 2018 com
+o título “Buraco negro 50 anos depois: génese do seu nome”.
+
+  [Nature 586, 347-348] e [Gazeta da Física, 41, 2]
+
+                                                   Produzir Energia a partir da Fusão Nuclear
+
+                                    SPARC foi o nome escolhido para a nova experiência de fusão nuclear que está a ser
+                                  desenvolvida por uma equipa do Massachusetts Institute of Technology, em parceria com
+                                  Commonwealth Fusion Systems. O objectivo atual é validar a física que está por detrás
+                                  deste complexo tokamak. Depois de meses de intensa investigação foram publicados 7 ar-
+                                  tigos escritos por 47 investigadores de 12 instituições distintas. Este conjunto de artigos
+                                  é fundamental para ter previsões do comportamento da experiência analizando os desafios
+                                  que estão por detrás da sua construção e funcionamento. A investigação feita relativamente
+                                  à física dos iões rápidos utilizou modelação numérica com o código CASTOR-K, desenvolvido
+                                  pelo IPFN - Instituto de Plasmas e Fusão Nuclear, unidade de investigação do IST.
+
+                                                                                                   [Journal of Plasma Physics 86, 5]
+
+4 PULSAR]]></page><page Index="5"><![CDATA[DIY Physics:                                                             O que vais precisar:
+
+Bolhas de Sabão Mágicas                                                             Palhinhas (reutilizadas)
+
+ por Bernardo Barbosa                                                               Detergente para a loiça ou
+                                                                                    para as mãos
+  Aluno do 4º ano de MEFT, Insituto Superior Técnico
+                                                                                    Fio ou cabelo comprido
+D  e certeza que já te cruzaste várias vezes com bolhas de sabão,
+           quer seja a lavar as mãos (como recomendamos vivamente                   Água
+           nos tempos que decorrem), quer seja a tomar banho, ou até
+ mesmo a observar crianças a brincar na rua com pequenos tubos           Vamos, então, parar com a conversa e ver este
+ cheios de água com sabão. Em qualquer dos casos, uma das mais           princípio em ação!
+ notáveis características destas bolhas é certamente a sua forma. Mas
+ o que faz com que uma bolha de sabão a voar pelo ar fique com uma         Passo 1: Com 4 palhinhas, constrói uma
+ forma esférica essencialmente perfeita?
+                                                                         “moldura”. Para tal, podes enfiar as extremi-
+   A resposta a esta pergunta obriga-nos a olhar para a água com mais    dades das palhinhas umas dentro das outras.
+atenção. Cada molécula de água é composta por 1 átomo de oxigénio        Podes, também, usar paus de espetada ou
+e 2 de hidrogénio (H2O). Geometricamente, podemos pensar nesta           qualquer outro objeto semelhante, desde que
+molécula como uma grande bola (oxigénio) com duas bolas pequenas         seja rígido e que possas colar.
+(hidrogénio) presas e desalinhadas, mais ou menos como a forma da
+cabeça do rato Mickey. Esta forma assimétrica da molécula faz com          Passo 2: Enche uma tigela (grande o sufi-
+que a distribuição dos eletrões seja assimétrica também, havendo mais
+eletrões próximos do oxigénio (zona negativamente carregada) do que      ciente para poderes submerger a moldura) com
+dos hidrogénios (zonas positivamente carregadas). Estas zonas sentem-    bastante água e adiciona detergente. Mistura
+-se, então, atraídas umas pelas outras, isto é, os hidrogénios de uma    até veres uma quantidade razoável de espuma
+molécula de água sentem-se atraídos pelo oxigénio de outra molécula      no topo da tigela.
+vizinha. Existe, portanto, uma força geral que tende a aproximar as
+moléculas umas das outras.                                                 Passo 3: Pega num fio de cabelo, ou
+
+  Esta força, em geral, é equilibrada em todas as direções, uma vez que  qualquer outro tipo de fio fino (como o de costu-
+cada molécula de água está rodeada em todas as direções por outras       ra), e dá um nó entre as pontas, de maneira a
+moléculas, resultando numa força nula. Contudo, numa zona onde a água    fazeres uma espira de fio.
+acabe, como a superfície de um lago, por exemplo, esta força já não é
+nula, resultando numa força em direção à água restante. A esta energia     Passo 4: Coloca a estrutura de palhinhas
+superficial que gera uma força na interface de líquidos dá-se o nome
+de tensão superficial. Esta força é a responsável por certos objetos, e  dentro da água com detergente e, cuidadosa-
+até alguns seres vivos, flutuarem na água, apesar de, no geral, serem    mente, volta a retirá-la. Deves ver uma pelícu-
+mais densos que esta. A tensão superficial é, também, a responsável      la de sabão a formar-se no seu interior. Se a
+pela forma das bolhas!                                                   película rebentar, repete este passo, ou tenta
+                                                                         adicionar mais detergente.
+  As moléculas de detergente possuem duas partes: uma delas é hi-
+drofóbica, isto é, tende a repelir-se da água, enquanto a outra                              Passo 5: Molha a espira
+é hidrofílica, que significa exatamente o contrário, e tende,
+portanto, a orientar-se em direção à água. Estas molécu-                                      de fio na água e, de seguida,
+las permitem aprisionar água, fazendo essencialmente uma                                      atira-a com cuidado para den-
+sandwich, onde o pão é o sabão e o conteúdo é a água. É esta                                  tro da película. Se a estrutura
+sandwich que nós vemos como sendo a superfície da bolha,                                      rebentar, repete os passos
+contudo, em princípio, esta não teria de ser esférica. A razão                                até agora.
+pela qual as bolhas tendem a ser esféricas vem da tensão su-
+perficial sentida pela água aprisionada na superfície da bolha.                              Passo 6: Com um objeto
+Cada molécula de água sente-se atraída às suas moléculas
+vizinhas, fenómeno em tudo análogo à força elástica que a                                     seco, rebenta a película de sa-
+superfície de um balão sente quando se encontra cheio. Isto                                   bão apenas na parte interior
+faz com que a bolha procure sempre diminuir ao máximo a                                       do fio. Antes de fazeres isto,
+sua área, uma vez que essa é a configuração que diminui ao                                    pensa no que estás à espera
+máximo a energia associada à tensão superficial. Ora, a for-                                  que aconteça!
+ma que minimiza a área da superfície de um objeto com um
+dado volume é uma esfera. Temos, então, a explicação pela                                        Aconteceu o que estavas à
+qual as bolhas de sabão tendem a ser sempre esféricas! É,                                     espera? A área de película de
+nada mais, nada menos, que a sua resposta ao facto de que                                     sabão foi minimizada?
+ter mais área superficial implica mais energia.
+                                                                                                                               PULSAR 5]]></page><page Index="6"><![CDATA[Viver em Marte:
+
+Como Produzir Oxigénio... E Combustível para Regressar a Casa
+
+                                                      por Vasco Guerra e Tiago Silva
+
+                                                                                Instituto de Plasmas e Fusão Nuclear, Instituto Superior Técnico
+
+O  envio de uma missão tripulada a Marte constituirá            A atmosfera marciana é formada por cerca de 96% de
+          um dos maiores avanços da aventura espacial           CO₂, que é assim o seu principal constituinte. Conta ainda
+          nos próximos anos. A criação de um ambiente           com aproximadamente 2% de Ar e 2% de N₂. O abundante
+respirável no planeta vermelho será um dos grandes              dióxido de carbono é o recurso de interesse, já que pode
+desafios a ultrapassar. Em princípio será possível obter        ser utilizado como matéria prima para produzir localmente
+oxigénio através da conversão do dióxido de carbono             oxigénio, que pode depois ser recolhido e utilizado para
+existente na atmosfera marciana. E uma nova solução             respirar. O processo baseia-se na decomposição do dióxido
+para o conseguir está em desenvolvimento: baseia-se em          de carbono em monóxido de carbono e oxigénio e a sua
+tecnologias de plasmas.                                         concretização dará um enorme impulso ao estabelecimen-
+                                                                to de uma colónia no planeta vermelho. Este processo de
+  A exploração especial está a iniciar uma nova era, com        decomposição vem com um bónus: para além de garantir
+Marte na agenda. As maiores agências espaciais – como           um abastecimento regular de oxigénio, pode assegurar a
+a ESA (Europa), NASA (EUA), Roscosmos (Russia) ou a             produção de combustível! Com efeito, já foi proposto uti-
+JAXA (Japão) –, por vezes em parceria com companhias            lizar oxigénio e monóxido de carbono como carburantes
+privadas, têm em curso ou apresentaram recentemente             para foguetões [1]. Pode ainda imaginar-se um processo
+programas muito ambiciosos de exploração de Marte.              de decomposição que vá até à produção de carbono, que
+                                                                poderia ser usado como elemento de construção de difer-
+  Uma missão a Marte será um empreendimento ex-                 entes estruturas de carbono e de moléculas orgânicas.
+traordinário. A distância entre a Terra e Marte varia entre
+55 e 400 milhões de quilómetros, dependendo da posição            A molécula de CO₂ é muito estável e, como tal, muito
+dos planetas nas suas órbitas. A conjugação correcta das        difícil de decompor. Por outras palavras, a dissociação do
+trajectórias implica que existe uma janela de lançamento        CO₂ é um processo fortemente endotérmico, que requer
+óptima aproximadamente a cada dois anos, correspond-            a utilização de uma quantidade apreciável de energia (pelo
+ente à trajectória de transferência de órbitas de Hohmann.      menos 5.5 eV). A tecnologia existente hoje em dia para a
+                                                                dissociação do CO₂ baseia-se em células de electrólise de
+Figura 1: Trajectória da nave especial ao longo da transferên-  óxido sólido (SOEC – Solid Oxide Electrolysis Cells), que é
+cia de órbitas de Hohmann, correspondente à órbita que requer   uma tecnologia robusta e estabelecida. No entanto, utiliza
+menor energia. As janelas de lançamento são periódicas, depen-  frequentemente materiais raros e caros e a sua eficiência
+dendo do período sinódico, que é de 780 dias no caso de Marte.  energética é muito baixa. Apesar destes inconvenientes, a
+                                                                NASA enviou em 2020 uma empolgante missão a Marte
+  A viagem dura cerca de 6 meses. Para regressar numa           que inclui uma experiência ISRU de produção de oxigénio
+órbita semelhante, os astronautas teriam que ficar cerca        (MOXIE) [2]. O MOXIE é transportado pelo rover Pers-
+de um ano em Marte. Evidentemente, quaisquer recursos           erverance, que aterrou em Marte em Fevereiro de 2021!
+locais que possam ser utilizados irão reduzir a logística e     Soluções biológicas, baseadas em algas ou bactérias, são
+os custos da missão, aumentar a auto-suficiência e reduzir      de momento puramente especulativas. Uma equipa do
+os riscos para a tripulação. Daqui resulta o interesse actu-    Instituto de Plasmas e Fusão Nuclear (IPFN) do Instituto
+al na utilização de recursos in-situ (ISRU – in-situ resource   Superior Técnico (IST) propôs recentemente uma solução
+utilization), a recolha de recursos no local de exploração      radicalmente diferente, baseada na utilização de plasmas
+que de outro modo teriam que ser trazidos da Terra.             de baixa temperatura [3,4].
+
+                                                                Porquê Plasmas?
+
+                                                                  Os plasmas de baixa temperatura são gases ionizados
+                                                                onde apenas uma fracção do gás está ionizada. As várias
+                                                                partículas – electrões, iões positivos, iões negativos, áto-
+                                                                mos e moléculas neutros e fotões – têm propriedades e
+                                                                energias muito diferentes. Os electrões são leves e por
+                                                                isso fáceis de acelerar por aplicação de campos eléctricos.
+                                                                Tornam-se muito energéticos e criam, por colisão com out-
+                                                                ras partículas, várias espécies químicas reactivas. Por seu
+                                                                lado, as moléculas e átomos neutros do gás mantêm uma
+                                                                temperatura suficientemente baixa para limitar as perdas
+
+6 PULSAR]]></page><page Index="7"><![CDATA[VIVER EM MARTE ARTIGO
+
+Figura 2: Ilustração da NASA da “amartagem” do Perserverance na superfície de Marte
+
+por aquecimento do gás. Os plasmas de baixa temperatura        dirigir selectivamente a química na direcção dos produ-
+são assim formidáveis conversores de energia eléctrica         tos desejados, O₂ e CO. Os electrões, por possuírem en-
+em energia química!                                            ergias cinéticas elevadas, podem quebrar a ligação CO-O
+                                                               da molécula de CO₂ por impacto directo. Este passo é
+  A potência requerida para criar e operar o plasma é ti-      importante, mas pode não ser suficientemente bom. Por
+picamente da ordem de 100 W, mas podem bastar 25               um lado, o processo procede por via da excitação de es-
+W, dependendo das condições de funcionamento. Estas            tados electrónicos com energias de 7 eV ou superiores,
+potências são perfeitamente realizáveis em Marte. Por          bastante acima da energia de dissociação do CO₂; por
+exemplo, os painéis solares do “Mars Exploration Rover”        outro lado, apenas uma pequena fracção dos electrões
+geram, quando totalmente iluminados, 140 W de potên-           tem energia suficiente para decompor a molécula. Mas a
+cia durante 4 horas por Sol (um “Sol” é um dia marciano,       “poção mágica” tem um ingrediente adicional: a excitação
+aproximadamente 24h40’). Outros méritos da tecnologia          vibracional do CO₂.
+de plasmas são a sua capacidade de iniciar e terminar a op-
+eração instantaneamente, o que se adequa perfeitamente         A Canção das Moléculas
+aos ciclos de disponibilidade de energia de uma unidade
+de ISRU em Marte, e o seu elevado potencial de escalabi-         Na molécula de CO₂, as ligações entre o carbono e os
+lidade.                                                        átomos de oxigénio podem fletir ou alongar e, como tal,
+                                                               a molécula começa a vibrar. Estas vibrações armazenam
+Figura 3: Ilustração da NASA da descida do Perserverance para  energia. Um plasma criado em condições marcianas pode
+a superfície de Marte.                                         facilmente produzir electrões que transferem mais de 90%
+                                                               da sua energia para a excitação vibracional das moléculas
+  A tecnologia pode tirar partido da natureza de não-equilí-   de CO₂. Poder-se-ia pensar que esta característica seria
+brio e da eficiência energética dos plasmas de baixa tem-      uma desvantagem, já que a energia não é diretamente uti-
+peratura, canalizando a energia dos electrões de modo a        lizada para decompor o CO₂, mas na verdade acaba por
+                                                               ser um trunfo importante! Por um lado, pôr as moléculas a
+                                                               vibrar requer cerca de 10 vezes menos energia do que dis-
+                                                               sociá-las diretamente por impacto electrónico; por outro
+                                                               lado, é possível favorecer transferências de energia entre
+                                                               as moléculas vibrantes, de modo a que algumas delas au-
+                                                               mentem a sua amplitude de vibração. Não é o mesmo fenó-
+                                                               meno que o partir de um cristal pela ária de uma cantora
+                                                               de ópera, mas esta imagem simplista é suficiente para
+                                                               uma primeira impressão: se as moléculas vibrarem signifi-
+                                                               cativamente, tornam-se mais fáceis de decompor!
+
+                                                                                     PULSAR 7]]></page><page Index="8"><![CDATA[ARTIGO VIVER EM MARTE
+
+Figura 4: Ilustração da NASA retratando astronautas em Marte
+
+Marte: o ambiente ideal para os plasmas!                       tos. Além disso, favorece as trocas de energia vibracional
+                                                               (devidas a forças atractivas de longo alcance) que pro-
+As ideias de como utilizar os plasmas para decompor o CO₂      movem o aumento da vibração e limitam as perdas de en-
+estão a ser exploradas na Terra, em resposta aos proble-       ergia vibracional por desativação colisional (devidas a for-
+mas de alterações climáticas e à tentativa de produção de      ças repulsivas de curto alcance).
+combustíveis verdes [5]. O desafio é perceber se e como
+os resultados obtidos e em estudo na Terra podem ser             As previsões apresentadas em [3] foram confirmadas
+adaptados a Marte. A equipa do IPFN, em colaboração com        experimentalmente muito recentemente pela mesma equi-
+investigadores do Laboratoire de Physique                      pa, no âmbito da tese de Doutoramento de Polina Ogloblina
+des Plasmas (LPP), Ecole Polytechnique, França, reportou       [6]. As medições foram realizadas numa descarga DC a
+recentemente, num estudo teórico e de simulação numé-          pressões entre 1 e 5 Torr, correntes entre 10 e 50 mA,
+rica, a descoberta de que Marte tem excelentes condições       com temperaturas iniciais tanto de 27 ºC (Terra) como
+para a utilização de recursos in-situ (ISRU) por plasmas [3].  de -55 ºC (Marte), e atmosferas de CO₂ puro e de 96%
+                                                               CO₂ -2% Ar -2% N₂. Para analisar os resultados foi desen-
+  A atmosfera é maioritariamente CO₂, pelo que não é           volvido um modelo detalhado cujas simulações revelaram
+necessária a sua captura e o plasma pode iniciar-se na at-     um muito bom acordo com os dados experimentais. A in-
+mosfera ambiente. Os traços de Ar e N₂ existentes podem        vestigação mostra que as baixas temperaturas de Marte
+apenas ajudar: o árgon muda a distribuição da energia dos      aumentam o grau de não-equilíbrio vibracional – que carac-
+electrões para energias mais elevadas, contribuindo para       teriza a fracção de energia armazenada nos níveis vibracio-
+um aumento da eficiência do processo; o azoto favorece         nais – e que a composição da atmosfera marciana tem um
+a transferência de energia vibracional para o CO₂ (como        efeito positivo na decomposição do CO₂.
+num laser de CO₂) e ajuda assim a “canção das moléculas”.
+A pressão em Marte – 600 Pa (4.5 Torr), cerca de 150           Figura 5: Esquema genérico de um reactor a plasma para
+vezes inferior à da Terra – é próxima da ideal para a op-      produção de oxigénio em Marte.
+eração dum plasma, não sendo necessário utilizar bom-
+bas de vácuo nem compressores no primeiro passo do
+processo. Note-se que uma pressão demasiado elevada
+implica que os electrões colidem demasiado frequente-
+mente, sendo por isso difíceis de acelerar. Por outro lado,
+a pressões demasiado baixas é fácil acelerar os electrões,
+mas as colisões são raras e a transferência de energia dos
+electrões para os neutros não é eficaz.
+
+  Finalmente, a reduzida temperatura da atmosfera mar-
+ciana – que varia entre -150 ºC e 20 ºC, com um valor
+médio de -60 ºC – atrasa as reacções de reconversão do
+CO e O em CO₂, dando mais tempo para a separação dos
+
+8 PULSAR]]></page><page Index="9"><![CDATA[VIVER EM MARTE ARTIGO
+
+                                                                 Estes números devem comparar-se com os resultados
+                                                                 apresentados em [3,5,6], que revelam que uma produção
+                                                                 de 14 g de O₂ por hora, para uma potência de 250 W, num
+                                                                 reactor de micro-ondas compacto de massa 4 kg e dimen-
+                                                                 sões 25×20×5 cm, é perfeitamente alcançável. Assim, a
+                                                                 produção de oxigénio por hora e por quilograma pode subir
+                                                                 de 0.7g na MOXIE para 3.5 g no reactor a plasma.
+
+                                                                   Um aumento de escala subsequente permite atingir uma
+                                                                 produção equivalente ao consumo diário de oxigénio na
+                                                                 Estação Espacial Internacional (ISS), que está presente-
+                                                                 mente na gama de 2-5 kg por dia. O uso de membranas
+                                                                 de separação de produtos e de catalisadores, ativados
+                                                                 por plasmas, trará um desenvolvimento crucial à tecnolo-
+                                                                 gia, mas encontra-se ainda em fase de investigação. De
+                                                                 qualquer modo, os plasmas estão já posicionados como
+                                                                 uma alternativa viável e muito interessante à SOEC para a
+                                                                 produção de oxigénio e combustíveis em Marte!
+
+  Figura 6: MOXIE, uma experiência no rover Preserverance, que   Referências:
+  aterrou em Marte no dia 18 de fevereiro de 2021! O objetivo é  [1] R. L. Ash, W. L. Dowler, and G. Varsi, “Feasibility of rocket
+  produzir oxigénio a partir do CO2 da atmosfera marciana.       propellant production on Mars,” Acta Astronaut. 5 (1978)
+                                                                 705.
+  Posteriormente, numa colaboração entre o IST e o Dutch         [2] M. H. Hecht, D. R. Rapp, and J. A. Hoﬀman, “The Mars
+Institute For Fundamental Energy Research (DIFFER),              Oxygen ISRU experiment (MOXIE).” https://ssed.gsfc.nasa.
+Países Baixos, Gonçalo Raposo, no âmbito da sua tese de          gov/IPM/PDF/1134.pdf.
+Mestrado em Engenharia Física Tecnológica (MEFT) do IST,         [3] V. Guerra, T. Silva, P. Ogloblina, M. Grofulović, L. Terraz,
+utilizou um plasma criado por micro-ondas em condições de        M. Lino da Silva, C. D. Pintassilgo, L. L. Alves and O. Guaitella,
+pressão e composição atmosférica marcianas, tendo obti-          “The case for in situ resource utilisation for oxygen produc-
+do conversões de CO₂ na ordem dos 35% para uma potên-            tion on Mars by non-equilibrium plasmas,” Plasma Sources
+cia injectada de 350 W [7]. Uma visão esquemática dum            Sci. Technol. 26 (2017) 11LT01.
+possível futuro reactor a plasma é apresentada na figura 5.      [4] V. Guerra, T. Silva and O. Guaitella, “Living on Mars: how
+                                                                 to produce oxygen and fuel to get home,” Europhysics News
+  Os resultados já obtidos demonstram que a tecnologia de        49(3) (2018) 15-18.
+plasmas emergente é muito promissora. Com efeito, a ex-          [5] A. Goede and R. van de Sanden, “CO2-neutral fuels,” Eu-
+periência MOXIE tem como objetivo conseguir a produção           rophysics News 47/3 (2016) 22.
+de 10 g de O₂ por hora, com uma potência de 300 W, num           [6] P. Ogloblina, A. S. Morillo-Candas, A. F. Silva, T. Silva, A.
+reactor de massa 15 kg e de dimensões 24×24×31 cm.               Tejero-del-Caz, L. L. Alves, O. Guaitella, and V. Guerra, “Mars
+                                                                 in situ oxygen and propellant production by non-equilibrium
+                                                                 plasmas,” https://www.essoar.org/doi/10.1002/es-
+                                                                 soar.10505142.2
+                                                                 [7] G. Raposo, “Plasma in-situ production of fuel and oxygen
+                                                                 on Mars,” Tese de Mestrado em Engª Fìsica Tecnológica,
+                                                                 Instituto SuperiorTécnico, Universidade de Lisboa, Portugal,
+                                                                 2021.
+
+                                                                 Figura 7: Ilusração da NASA: o rover
+                                                                 Perseverance lança um pára-quedas
+                                                                 supersônico do seu aeroshell en-
+                                                                 quanto diminui a velocidade antes de
+                                                                 “amartar”.
+
+                                                                 PULSAR 9]]></page><page Index="10"><![CDATA[Brilhante Grafen
+
+                                     por Pedro Cosme
+
+                Alumnus MEFT e estudante de doutoramento em Física no Instituto Superior Técnico
+
+D  esde a sua descoberta experimental em 20041, o              descrição relativista. Este facto torna-se ainda mais claro
+           grafeno tem vindo a ocupar um lugar de destaque     se analisarmos a relação entre a energia e o momento, em
+           nas mais diversas áreas da ciência e tecnologia,    tudo idêntica à de um fotão
+com usos e aplicações que vão desde o melhoramento das
+solas dos ténis de competição à utilização em circuitos
+e computadores quânticos, passando até por testes à
+COVID-192. Mas, o que é, afinal, o grafeno e como podemos
+estudar as suas propriedades?
+
+  Designamos, no sentido lato, por grafeno os materiais
+constituídos por uma a algumas camadas de átomos de
+carbono dispostos numa rede hexagonal, podendo as cam-
+adas sobrepor-se com diferentes ângulos entre si e conter
+átomos de outras espécies químicas. Contudo, foquemo-
+-nos no caso, realmente distinto, do grafeno com apenas
+uma camada de átomos exclusivamente de carbono. Os
+eletrões deste material têm um comportamento inusitado,
+que lhes confere, entre outras características, uma ele-
+vadíssima mobilidade.
+
+                                                               Figura 2: Estrutura de bandas no grafeno de uma folha. Em torno
+                                                               dos pontos K e K’, a energia varia de forma linear com o momento.
+
+Figura 1: Hibridação das orbitais dos átomos de carbono no       O comportamento do fermião de Dirac leva, também, a
+grafeno. As orbitais � ligam os átomos numa estrutura hexago-  que seja difícil os eletrões interagirem com os fonões da
+nal, enquanto as orbitais π conduzem os eletrões livres.       rede hexagonal, o que explica a origem da alta mobilidade
+                                                               elétrica que este material apresenta, cerca de cem vezes
+  De forma a criar uma estrutura hexagonal, os átomos          superior ao valor encontrado no silício. Assim, a relativa
+de carbono apresentam uma hibridação sp2, em que as            ausência de perdas levou, desde cedo, à utilização do grafe-
+três orbitais coplanares são responsáveis pela ligação co-     no em componentes eletrónicos e hoje, os transístores de
+valente aos três primeiros vizinhos. Resta, portanto, uma      grafeno (GFET) começam já a ser presença assídua no rol
+orbital pz, perpendicular ao plano, que permite a condução     de componentes à disposição de cientistas e engenheiros.
+de eletrões, ou lacunas3, ao longo do grafeno. Porém, estes
+eletrões não se comportam como poderíamos esperar.
+Recorrendo ao modelo de Tight Binding para os primeiros
+vizinhos, e no limite das baixas energias4, pode chegar-se à
+conclusão que a função de onda, *, dos eletrões obedece
+à equação
+
+na qual surge uma velocidade vF , dita velocidade de Fermi,    Figura 3: Placa comercial de transístores de grafeno.
+as matrizes de Pauli e a energia E. O que é extraordinário
+é que esta equação é análoga à equação de Dirac para
+partículas relativistas sem massa se substituirmos a ve-
+locidade da luz por vF , ou seja, ao invés de se regerem pela
+usual equação de Schrödinger, os eletrões requerem uma
+
+10 PULSAR]]></page><page Index="11"><![CDATA[BRILHANTE GRAFENO ARTIGO
+
+Em particular, as tecnologias de grafeno atraem a atenção     Na verdade, o grande fascínio da física do grafeno reside
+da comunidade científica no campo dos terahertz (THz).      precisamente nas inúmeras e variadas aplicações e exóti-
+A radiação THz possui inúmeras aplicações possíveis nas     cos comportamentos físicos que nele podemos encontrar.
+áreas da medicina, imagiologia e segurança, entre ou-       Muito fica por contar do que se conhece já, como as “poças
+tras. Todavia, é atualmente difícil gerar ou detetar THz,   de carga” junto ao ponto de neutralidade; a quiralidade dos
+pelo que esta gama de radiação acaba por cair no hiato      eletrões; a interação com a radição; ou os ângulos mágicos
+entre as radiofrequências, geradas eletronicamente, e a     do grafeno de duas camadas. Mas resta ainda mais por
+ótica, domínio dos lasers. É, portanto, um feliz acaso as   descobrir e estudar, quem sabe, por um de vós leitores.
+frequências usuais das excitações no grafeno se situarem
+nesta zona do espetro. O trabalho de investigação que       1 O que valeu a Konstantin Novoselov e Andre Geim o prémio No-
+desenvolvo no laboratório de plasmas quânticos do IPFN      bel da Física em 2010, tornando Andre Geim o único físico a ter
+lida precisamente com a emissão de THz em GFET. Estuda-     ganho, tanto o prémio Nobel, como o prémio IgNobel, atribuído
+mos as condições que possam gerar ondas de eletrões no      em 2000 pela levitação de uma rã viva.
+grafeno e a radiação que estas emitem. Nos nossos mo-
+delos, tratamos o conjunto dos eletrões de condução como    2 Estamos em 2021 e há que convencer as agências de financia-
+um fluido, isto porque, com grafeno, pode construir-se      mento de alguma forma.
+transístores muito maiores que a separação média entre
+eletrões, o que nos permite analisá-los como um contínuo:   3 A análise para a condução de lacunas é idêntica à dos eletrões,
+encontramo-nos no regime hidrodinâmico.                     portanto, por simplicidade, iremos restringir a discussão ao caso
+                                                            eletrónico.
+  Por estranho que pareça, o mecanismo de produção e
+amplificação de ondas de eletrões5 não é muito diferente    4 Em física, «baixas energias» é uma expressão que, consoante a
+do caso de ondas rasas a rebentar na praia. Uma barreira    área cientifica, pode ter significados muito diferentes. Asseguro-
+de potencial num dos terminais do GFET força a corrente     -vos que, no caso do grafeno, para as aplicações usuais e a tem-
+contínua imposta a ser reflectida e a interagir com a cor-  peratura ambiente, estamos, de facto, nesse regime.
+-rente incidente, criando uma onda de choque e levando ao
+crescimento de oscilações. Posteriormente, os fatores não   5 Chamadas plasmões, mas não é preciso ficarmos demasiado
+lineares do sistema impõem a saturação e o sistema en-      técnicos agora.
+tra, naturalmente, num regime estável. Ao mesmo tempo,
+o movimento acelerado dos eletrões nestas ondas de den-
+sidade é responsável pela emissão de radiação, de forma
+muito semelhante a uma antena omnidirecional.
+
+Figura 4: Esquema de emissão de radiação THz num GFET
+
+  Claro que, isoladamente, uma destas microantenas não
+conseguirá emitir ou receber uma grande potência, mas a
+conjugação de várias antenas interligadas numa disposição
+específica permite não só aumentar a capacidade como
+obter padrões de radiação variados. Para além de emis-
+sores e detectores de THz alguns autores estudam tam-
+bém a hipótese da utilização dos canais de grafeno como
+guias de onda em miniatura abrindo também o caminho a
+possibilidades muito interessantes.
+
+                                                            PULSAR 11]]></page><page Index="12"><![CDATA[AI, o que vai ser da Física!?
+
+                                                   por Óscar Amaro
+
+                                                              Aluno do 5º ano de MEFT, Instituto Superior Técnico
+
+N   unca a Humanidade esteve tão envolvida no               Podemos pensar nisto como um “fit global” a todas as
+          avanço da Ciência. A cada ano que passa, o        variáveis dinâmicas do sistema! Tal como noutras áreas
+          número de investigadores que publicam em          de aprendizagem automática, surge o problema de over-
+revistas científicas aumenta cerca de 5% [1]. Apesar        fitting, quando o número de termos é demasiado elevado
+de este e outros crescimentos (quase) exponenciais          e o poder preditivo reduzido. Nesse caso, o método pode
+não refletirem realmente o progresso feito, a verdade       incorporar a filosofia da navalha de Occam e procurar um
+é que nos aproximamos cada vez mais de uma melhor           equilíbrio entre a precisão e a simplicidade do alfabeto de
+compreensão do Universo nas suas diferentes escalas. Em     termos usados. Apesar de tudo isto, este método funciona
+paralelo, assiste-se à progressiva automatização de várias  apenas em sistemas clássicos e simples, como massa-mo-
+tarefas científicas, que, até há pouco tempo, julgaríamos   la e pêndulos, que, no fundo, seguem a equação de movi-
+impensáveis de implementar em chips.                        mento de Newton.
+
+  A Física é uma ciência profundamente empírica, porque       E se quisermos generalizar para outros sistemas físicos?
+o objecto de estudo é a própria Natureza! Poder-se-ia pen-  Por exemplo, em [4], os autores começam por gerar da-
+sar que é preciso um agente consciente para a analisar;     dos a partir de um código partícula-em-célula, que funciona
+no entanto, é muito frequente os laboratórios modernos      por primeiros princípios, nomeadamente as equações de
+terem sistemas automáticos de calibração, alinhamento       Maxwell. A seguir, constroem um dicionário de operações
+e otimização, quase dispensando a intervenção humana.       diferenciais sobre a função de distribuição f(x,v,t), e testam
+Em concreto, é possível criar algoritmos de controlo que    diferentes combinações destes termos até encontrarem a
+“aprendem” as correlações entre inputs, como a posição      que melhor descreve a evolução do sistema. Neste artigo,
+de espelhos e intensidade de um laser, sujeitos a flutu-    os autores não só conseguem “destilar” a equação de Vla-
+ações, e outputs, como a energia dos electrões acelerados   sov com elevada precisão, como também equações de con-
+pelo laser num plasma [2]. Até recentemente, esta era       tinuidade, momento e energia. Apesar de haver um claro
+uma tarefa muito penosa e sujeita a muitos erros e tinha    interesse académico em verificar a consistência entre leis
+de ser feita por alguém com uma grande dose de intuição     micro, meso e macroscópicas já conhecidas, estes méto-
+e paciência. Mais, os próprios dados das experiências po-   dos poderão ser usados para desvendar novas equações
+dem ser catalogados, selecionados e analisados por roti-    diferenciais e modelos reduzidos, que poderão ser menos
+nas pré-definidas, como é feito com a quantidade abismal    exigentes do ponto de vista computacional do que os códi-
+de eventos no CERN.                                         gos originais de primeiros princípios.
+
+  Sendo assim, é legitimo perguntar se é possível extrair
+leis físicas diretamente de dados experimentais? Segun-
+do [3], parece que sim. O algoritmo que usaram há mais
+de uma década (e cuja área de investigação, entretanto,
+evoluiu significativamente) baseia-se na procura de com-
+binações de variáveis dinâmicas (e funções delas) que re-
+produzam os dados experimentais. Por exemplo, para um
+oscilador harmónico simples, o programa encontra termos
+sin(x) e cos(x) com coeficientes apropriados, em que x é
+a posição do oscilador. Usando invariâncias e simetrias, o
+método consegue extrair as equações de movimento do
+sistema e até o seu Lagrangiano.
+
+                                                            Figura 2: Uma parte de uma das mais de mil de páginas de
+                                                            Abramowitz e Stegun, Handbook of Mathematical Functions.
+                                                            Sim, os físicos teóricos decoravam muitas páginas como esta!
+
+Figura 1: Dicionário de variáveis dinãmicas e operadores      Falta saber, então, o que fazer com a componente pura-
+                                                            mente teórica da Física. Se antes era pedido que um inves-
+                                                            tigador soubesse o Abramowitz e Stegun [5] de trás para
+                                                            a frente, o cálculo simbólico (como o Mathematica) tirou
+                                                            esse fardo pesado dos seus ombros, e permitiu-lhe focar-
+                                                            se na resolução de problemas físicos em vez de decorar
+                                                            tabelas de integrais. Mesmo assim, este software poderá
+                                                            um dia ser substituído por redes neuronais [6] e, quem
+
+12 PULSAR]]></page><page Index="13"><![CDATA[]]></page><page Index="14"><![CDATA[]]></page><page Index="15"><![CDATA[]]></page><page Index="16"><![CDATA[]]></page><page Index="17"><![CDATA[]]></page><page Index="18"><![CDATA[]]></page><page Index="19"><![CDATA[]]></page><page Index="20"><![CDATA[]]></page><page Index="21"><![CDATA[]]></page><page Index="22"><![CDATA[]]></page><page Index="23"><![CDATA[]]></page><page Index="24"><![CDATA[]]></page><page Index="25"><![CDATA[]]></page><page Index="26"><![CDATA[]]></page><page Index="27"><![CDATA[]]></page><page Index="28"><![CDATA[]]></page><page Index="29"><![CDATA[]]></page><page Index="30"><![CDATA[]]></page><page Index="31"><![CDATA[]]></page><page Index="32"><![CDATA[]]></page><page Index="33"><![CDATA[]]></page><page Index="34"><![CDATA[]]></page><page Index="35"><![CDATA[]]></page><page Index="36"><![CDATA[]]></page><page Index="37"><![CDATA[]]></page><page Index="38"><![CDATA[]]></page></pages></Search>
